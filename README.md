@@ -5,8 +5,9 @@ exercícios e trabalhos da disciplina de Inteligência Artificial/noSQL
 
 ## Organização
 
-- 📁 Aula_01
-- 📁 Aula_02
-- 📁 Aula_03
-- 📁 Trabalhos
-- 📁 Exercicios
+
+- 📁 [Aula_01](./Aula_01)
+- 📁 [Aula_02](./Aula_02)
+- 📁 [Aula_03](./Aula_03)
+- 📁 [Trabalhos](./Trabalhos)
+- 📁 [Exercicios](./Exercicios)
