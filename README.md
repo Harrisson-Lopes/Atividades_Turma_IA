@@ -1,2 +1,12 @@
-# Atividades_Turma_IA
-Repositório para eu depositar minhas atividades  
+# Atividades Turma IA - PROFESSOR WILLGNER 
+
+Este repositório é destinado ao armazenamento das minhas atividades,
+exercícios e trabalhos da disciplina de Inteligência Artificial/noSQL
+
+## Organização
+
+- 📁 Aula_01
+- 📁 Aula_02
+- 📁 Aula_03
+- 📁 Trabalhos
+- 📁 Exercicios
